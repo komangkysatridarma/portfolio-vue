@@ -33,7 +33,7 @@ function toggleMobileMenu() {
 
     <!-- Tampilkan menu seluler jika diaktifkan -->
     <div class="lg:hidden flex justify-end items-end">
-    <div v-if="isMobileMenuOpen" class="lg:hidden z-10 bg-white divide-y divide-gray-100 rounded-lg shadow w-44 dark:bg-gray-700">
+    <div v-if="isMobileMenuOpen" class="lg:hidden z-10 bg-white divide-y divide-gray-100 rounded-lg shadow w-44">
       <!-- Tambahkan tautan navigasi di sini -->
       <a class="text-black font-medium block mb-1" href="#home">Home</a>
       <a class="text-black font-medium block mb-1" href="#about">About</a>
