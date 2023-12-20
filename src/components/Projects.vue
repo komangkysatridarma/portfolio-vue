@@ -15,7 +15,7 @@ import { Carousel, Slide } from 'vue-carousel';
         <p class="text-black w-[90%]">{{ project.desc }}</p>
         <a :href="project.github" target="_blank" rel="noopener noreferrer" class="border border-black p-2 rounded-3xl flex">
             <img src="@/assets/img/25231.png" alt="GitHub" class="w-5 h-5">
-            <span class="ml-2">GitHub</span>
+            <span class="ml-2 text-black">GitHub</span>
         </a>
       </div>
     </div>

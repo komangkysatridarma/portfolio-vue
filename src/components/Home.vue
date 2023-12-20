@@ -3,15 +3,15 @@
 
 <template>
   <div class="container mt-32 mb-0 lg:mt-36 sm:mb-10">
-    <div class="bg-white dark:bg-gray-900 flex items-center justify-center">
+    <div class="bg-white`- flex items-center justify-center">
       <div class="py-8 px-4 mx-auto max-w-screen-xl text-center lg:py-16">
-        <h1 class="mb-4 text-4xl font-extrabold tracking-tight leading-none text-current md:text-5xl lg:text-6xl dark:text-white">
+        <h1 class="mb-4 text-4xl font-extrabold tracking-tight leading-none text-current md:text-5xl lg:text-6xl">
           Hello There!
         </h1>
-        <h1 class="mb-4 text-2xl font-bold tracking-tight leading-none text-gray-900 md:text-3xl lg:text-4xl dark:text-white">
+        <h1 class="mb-4 text-2xl font-bold tracking-tight leading-none text-gray-900 md:text-3xl lg:text-4xl">
           I'm Komang Kysa Tri Darma
         </h1>
-        <h1 class="mb-8 text-lg font-extrabold tracking-tight leading-none text-current md:text-xl lg:text-2xl dark:text-white">
+        <h1 class="mb-8 text-lg font-extrabold tracking-tight leading-none text-current md:text-xl lg:text-2xl">
           Back-End Developer
         </h1>
         <div class="flex flex-col space-y-4 sm:flex-row sm:justify-center sm:space-y-0">
@@ -32,3 +32,4 @@
     </div>
   </div>
 </template>
+``
