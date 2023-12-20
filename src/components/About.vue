@@ -1,7 +1,7 @@
 <script setup></script>
 
 <template>
-  <div class="container mt-16">
+  <div class="container mt-20 pt-16">
     <section
       id="about"
       class="grid grid-flow-col grid-cols-1 md:grid-cols-2 lg:grid-cols-2 gap-10 items-center"
@@ -15,7 +15,7 @@
       </div>
       <div>
         <h2 class="text-4xl lg:ml-0 font-bold sm:ml-5 sm:mt-16">About Me</h2>
-        <p class="mt-12 text-black text-lg md:w-[80%] lg:text-2xl ">
+        <p class="mt-12 text-black text-lg md:w-[80%] lg:text-2xl sm:mr-4">
           Saya adalah murid SMK Wikrama Bogor dengan jurusan IT. Minat saya
           terfokus pada pengembangan web, khususnya di bidang Front-End. Saat
           ini, saya sedang mendalami bahasa pemrograman JavaScript. Saya
