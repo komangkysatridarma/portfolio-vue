@@ -9,7 +9,7 @@ import serti8 from "@/assets/img/certificate (4)_page-0001.jpg"
 
 const sertifikats = [
     {
-    title: 'E-Learning',
+    title: 'E-Learning K3',
     image: serti1,
     },
     {

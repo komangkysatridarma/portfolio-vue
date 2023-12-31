@@ -14,10 +14,12 @@
         />
       </div>
       <div>
-        <h2 class="text-4xl text-black lg:ml-0 font-bold sm:ml-5 sm:mt-16">About Me</h2>
+        <h2 class="text-4xl text-black lg:ml-0 font-bold sm:ml-5 sm:pt-16">
+          About Me
+        </h2>
         <p class="mt-12 text-black text-lg md:w-[80%] lg:text-2xl sm:mr-4">
           Saya adalah murid SMK Wikrama Bogor dengan jurusan IT. Minat saya
-          terfokus pada pengembangan web, khususnya di bidang Front-End. Saat
+          terfokus pada pengembangan web, khususnya di bidang Back-end. Saat
           ini, saya sedang mendalami bahasa pemrograman JavaScript. Saya
           termasuk individu yang pekerja keras, rajin, disiplin, dan senang
           menghadapi tantangan.
