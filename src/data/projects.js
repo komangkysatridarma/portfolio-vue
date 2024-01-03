@@ -25,7 +25,7 @@ const projects = [
     {
     title: 'Rekapitulasi Keterlambatan',
     image: project4,
-    desc: 'Ini proyek tercepat saya, saya hanya mengerjakan ini hanya 1 hari, juga Proyek ini memiliki fitur CRUD, ekspor ke Excel (sementara ini belum berjalan), dan ekspor PDF. Proyek ini dibuat menggunakan framework Laravel sebagai back-end, Tailwind sebagai front-end, dan MySQL sebagai database.',
+    desc: 'Ini proyek tercepat saya, saya hanya mengerjakan ini hanya 1 hari, juga Proyek ini memiliki fitur CRUD, ekspor ke Excel, dan ekspor PDF. Proyek ini dibuat menggunakan framework Laravel sebagai back-end, Tailwind sebagai front-end, dan MySQL sebagai database.',
     github: 'https://github.com/komangkysatridarma/rekap-keterlambatan'
     }
 ]
