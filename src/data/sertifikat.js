@@ -6,6 +6,8 @@ import serti5 from "@/assets/img/certificate (3)_page-0001.jpg"
 import serti6 from "@/assets/img/sertifikat_course_302_2738470_151223203832_page-0001.jpg"
 import serti7 from "@/assets/img/certificate (2)_page-0001.jpg"
 import serti8 from "@/assets/img/certificate (4)_page-0001.jpg"
+import serti9 from "@/assets/img/Komang Kysa Tri Darma-TTD.png"
+import serti10 from "@/assets/img/Komang Kysa Tri Darma (1).jpg"
 
 const sertifikats = [
     {
@@ -39,6 +41,14 @@ const sertifikats = [
     {
     title: 'Vue. Js',
     image: serti8,
+    },
+    {
+    title: 'Node/Express. Js',
+    image: serti9,
+    },
+    {
+    title: 'Vue. Js',
+    image: serti10,
     },
 ]
 
