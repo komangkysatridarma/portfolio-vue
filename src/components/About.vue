@@ -18,10 +18,10 @@
           About Me
         </h2>
         <p class="mt-12 text-black text-lg md:w-[80%] lg:text-2xl sm:mr-4">
-          Saya adalah murid SMK Wikrama Bogor dengan jurusan IT. Minat saya
-          terfokus pada pengembangan web, khususnya di bidang Back-end. Saat
-          ini, saya sedang mendalami bahasa pemrograman JavaScript. Saya
-          termasuk individu yang pekerja keras, rajin, disiplin, dan senang
+          Saya adalah murid SMK Wikrama Bogor dengan jurusan IT. Minat saya saat
+          ini terfokus pada pengembangan perangkat lunak, khususnya di bidang
+          back-end. Saat ini, saya sedang mendalami bahasa pemrograman Java.
+          Saya termasuk individu yang pekerja keras, rajin, disiplin, dan senang
           menghadapi tantangan.
         </p>
       </div>

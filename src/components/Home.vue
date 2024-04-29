@@ -26,6 +26,8 @@
             <img src="@/assets/img/1969px-Laravel.svg.png" alt="Laravel" class="w-8 h-8 mb-2 " />
             <img src="@/assets/img/MySQL-Logo.png" alt="MySQL" class="w-auto h-8 mb-2 " />
             <img src="@/assets/img/Vue.js_Logo_2.svg.png" alt="Vue.js" class="w-8 h-8 mb-2 " />
+            <img src="@/assets/img/java-icon-1511x2048-6ikx8301.png" alt="Java" class="w-7 h-10 mb-2 " />
+            <img src="@/assets/img/springboot.png" alt="SpringBoot" class="w-12 h-12 mb-2 " />
           </div>
         </div>
       </div>

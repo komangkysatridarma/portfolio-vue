@@ -7,7 +7,7 @@ import { Carousel, Slide } from 'vue-carousel';
   <section id="projects" class="flex flex-col items-center py-16">
     <h2 class="mt-5 mb-20 text-4xl font-bold text-black">Projects</h2>
     <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-10 m-4">
-      <div v-for="(project, i) of projects" :key="project.title" class="grid place-items-center text-center gap-5 p-8 bg-white bg-base-100 shadow-xl rounded-lg" :class="i == 1 ? 'lg:-translate-y-10' : ''">
+      <div v-for="(project, i) of projects" :key="project.title" class="grid place-items-center text-center gap-5 p-8 bg-white bg-base-100 shadow-xl rounded-lg" :class="{ 'lg:-translate-y-10': i === 1 || i === 4 }">
         <div>
           <img :src="project.image" alt="" class="w-full h-auto">
         </div>
